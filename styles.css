@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+.book-library{
+	max-width:100%;
+	text-align:;
+	background-color: #f8f8f8;
+	
+}
+p{
+	color: #777777;
+}
+.price{
+	background-color:  #2ecc71;
+	width:100%;
+	text-align:;
+}
+.book{
+	width:100%;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+}
+.details{
+	width:100%;
+}

@@ -28,4 +28,8 @@ p{
 .details{
 	width:100%;
 	background-color:rgb(46, 204, 113);
+	color:gb(255, 255, 255);
 }
+/* h2,p{
+	color:blue;
+	align-text:left;} */

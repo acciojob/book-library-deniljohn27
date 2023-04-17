@@ -1,6 +1,9 @@
 /*  your css code here. If applicable */
+h1{
+	text-align:center;
+}
 .book-library{
-	max-width:100%;
+	max-width:600px;
 	text-align:;
 	background-color: #f8f8f8;
 	
@@ -11,7 +14,10 @@ p{
 .price{
 	background-color:  #2ecc71;
 	width:100%;
-	text-align:;
+	text-align:center;
+	padding:10px;
+	border-radius:10px;
+	margin:10px;
 }
 .book{
 	width:100%;
